@@ -6,7 +6,7 @@
         {
             List<Student> students = new List<Student>
             {
-                new Student() {Id = 1, Name = "Hemaant", Age = 27, Address = "Delhi", PhoneNumber = 123456789 , TotalMarks = 85},
+                new Student() {Id = 1, Name = "Hemant", Age = 27, Address = "Delhi", PhoneNumber = 123456789 , TotalMarks = 85},
                 new Student() {Id = 2, Name = "Yash", Age = 19, Address = "Delhi", PhoneNumber = 123456789 , TotalMarks = 82},
                 new Student() {Id = 3, Name = "Deepak", Age = 18, Address = "Delhi", PhoneNumber = 123456789 , TotalMarks = 90},
                 new Student() {Id = 4, Name = "Priya", Age = 17, Address = "Delhi", PhoneNumber = 123456789 , TotalMarks = 95},
